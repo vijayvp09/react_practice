@@ -1,4 +1,4 @@
-import "./CSS/TodoItems"
+import "./CSS/TodoItems.css"
 const TodoItems = () => {
     return (
         <div>
